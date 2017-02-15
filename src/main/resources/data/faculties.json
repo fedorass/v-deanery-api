@@ -1,0 +1,43 @@
+[
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name" : "Математики та інформатики"
+  },
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name": "Фізико-технологічний"
+  },
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name": "Іноземної філології"
+  },
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name": "Української філології"
+  },
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name": "Історико-соціологічний"
+  },
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name": "Інститут психології та педагогіки"
+  },
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name": "Педагогічний"
+  },
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name": "Психолого-природничий"
+  },
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name": "Інститут мистецтв"
+  },
+  {
+    "_class" : "ua.edu.university.data.model.Faculty",
+    "name": "Документальних комунікацій і менеджменту"
+  }
+  
+]

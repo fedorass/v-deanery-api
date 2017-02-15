@@ -1,0 +1,202 @@
+[
+  {
+    "_class" : "ua.edu.university.data.model.Department",
+    "name": "Інформатики та прикладної математики"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Інформаційно-комунікаційних технологій та методики викладання інформатики"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Вищої математики"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Математики та методики її викладання"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Фізики"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Загальнотехнічних дисциплін, технологій та цивільної безпеки"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Технологічної освіти"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Теорії та методики професійної освіти"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Методики викладання фізики і хімії"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Романо-германської філології"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Теорії і практики англійської мови та прикладної лінгвістики"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Методики викладання іноземних мов"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Теорії літератури та славістики"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Іноземних мов"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Порівняльного і загального мовознавства"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Української мови імені проф. Шульжука К. Ф."
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Української літератури"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Методики викладання і культури української мови"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Історії України"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Всесвітньої історії"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Політичних наук, філософії"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Політології і соціології"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Педагогіки та психології (дошкільної і корекційної)"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Теорії та методик початкового навчання"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Теорії та методики фізвиховання"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Педагогіки початкової освіти"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Теорії і методики виховання"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Загальної психології та психодіагностики"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Вікової та педагогічної психології"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Практичної психології та психотерапії"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Екології та збалансованого природокористування"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Біології"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Естрадної музики"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Народних інструментів"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Хорового диригування"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Музичного фольклору"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Духових та ударних інструментів"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Історії, теорії музики та методики музичного виховання"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Гри на музичних інструментах"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Пісенно-хорової практики та постановки голосу"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Культурології"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Образотворчого та декоративно-прикладного мистецтва"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Театральної режисури"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Хореографії"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Бібліотекознавства та бібліографії"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Документальних комунікацій"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Економічної кібернетики"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Економічної теорії"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Менеджменту"
+  },
+  {
+   "_class" : "ua.edu.university.data.model.Department",
+    "name": "Фізичного виховання"
+  }
+]
